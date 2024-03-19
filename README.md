@@ -26,7 +26,9 @@ Este programa en Python tiene como objetivo simplificar la lectura de archivos E
 
 1. Clona el repositorio en tu máquina local.
 2. Navega al directorio que contiene el repositorio clonado.
-3. Ejecuta el programa utilizando Python: `python eds_reader.py`
+3. Ejecuta el programa utilizando Python: `python eds_reader.py` o si utilizas una IDE como PyCharm Community, simplemente abre el proyecto, asegúrate de tener configurado Python correctamente y luego ejecuta el script eds_reader.py dentro de la IDE.
+
+
 
 ## Cómo Contribuir
 
